@@ -15,8 +15,14 @@
 	<classpathentry kind="lib" path="lib/slf4j-log4j12-1.6.4.jar"/>
 	<classpathentry kind="lib" path="lib/xercesImpl-2.10.0.jar"/>
 	<classpathentry kind="lib" path="lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="lib/weka.jar"/>
+	<classpathentry kind="lib" path="lib/ajt-2.9.jar"/>
+	<classpathentry kind="lib" path="lib/commons-math-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/IKAnalyzer2012.jar"/>
+	<classpathentry kind="lib" path="lib/Jama-1.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/javaml-0.1.7.jar"/>
+	<classpathentry kind="lib" path="lib/libsvm.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-core-3.6.0.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="D:/Workspaces/workspace2/KnowledgeGraph/lib/lucene-core-3.6.0.jar"/>
-	<classpathentry kind="lib" path="D:/Workspaces/workspace2/KnowledgeGraph/lib/IKAnalyzer2012.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
