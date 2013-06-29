@@ -4,3 +4,12 @@
 *.jar
 *.war
 *.ear
+
+# Reference Directory
+ref/
+
+# Data Directory
+etc/
+
+# Eclipse
+bin/
